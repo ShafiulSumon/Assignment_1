@@ -3,7 +3,21 @@
 }
 
 <div class="text-center">
-    <h1 class="display-4">Sign Up</h1>
-    <p>Fill in the form below to create an account.</p>
+    <form action="/Signup/SignupPage" method="post">
+        <h3>Signup</h3>
+        <label>
+            Fullname
+            <input name="FullName" placeholder="enter your fullname" />
+        </label>
+        <label>
+            Email
+            <input name="email" type="email" , placeholder="enter your email" />
+        </label>
+        <label>
+            Password
+            <input name="password" type="password" placeholder="enter your password" />
+        </label>
+        <button action="submit">Submit</button>
+    </form>
 
 </div>
