@@ -2,22 +2,58 @@
     ViewData["Title"] = "Sign Up";
 }
 
-<div class="text-center">
+@* <div class="container text-center bg-light">
     <form action="/Signup/SignupPage" method="post">
-        <h3>Signup</h3>
-        <label>
-            Fullname
-            <input name="FullName" placeholder="enter your fullname" />
-        </label>
-        <label>
-            Email
-            <input name="email" type="email" , placeholder="enter your email" />
-        </label>
-        <label>
-            Password
-            <input name="password" type="password" placeholder="enter your password" />
-        </label>
-        <button action="submit">Submit</button>
+        <fieldset>
+            <legend>Signup</legend>
+            <div class="form-group mb-3">
+                <label>
+                    <input name="FullName" placeholder="enter your fullname" />
+                </label>
+            </div>
+            <div class="form-group mb-2">
+                <label>
+                    <input name="email" type="email" , placeholder="enter your email" />
+                </label>
+            </div>
+            <div class="form-group mb-2">
+                <label>
+                    <input name="password" type="password" placeholder="enter your password" />
+                </label>
+            </div>
+            <div class="form-group mb-2">
+                <button action="submit">Submit</button>
+            </div>
+        </fieldset>
     </form>
+</div> *@
 
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <form action="/Signup/SignupPage" method="post" class="p-4 border rounded shadow-sm bg-light">
+                <fieldset>
+                    <legend class="text-center mb-3">Signup Page</legend>
+                    <div class="form-group mb-3">
+                        <label for="FullName" class="form-label">FullName</label>
+                        <input type="text" id="FullName" name="FullName" class="form-control"
+                            placeholder="Enter your fullname" required />
+                    </div>
+                    <div class="form-group mb-3">
+                        <label for="Email" class="form-label">Email</label>
+                        <input type="email" id="Email" name="Email" class="form-control" placeholder="Enter your email"
+                            required />
+                    </div>
+                    <div class="form-group mb-3">
+                        <label for="Password" class="form-label">Password</label>
+                        <input type="password" id="Password" name="Password" class="form-control"
+                            placeholder="Enter your password" required />
+                    </div>
+                    <div class="text-center">
+                        <button type="submit" class="btn btn-primary w-100">Submit</button>
+                    </div>
+                </fieldset>
+            </form>
+        </div>
+    </div>
 </div>

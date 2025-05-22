@@ -38,6 +38,7 @@ public class ConstantMessage
             <p class=""footer"">
             This is an auto-generated email by the system.<br>
             Thanks,<br>
+            From<br>
             <strong>Team Ostad</strong>
             </p>
         </div>

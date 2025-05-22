@@ -14,8 +14,21 @@ public class SignupRepository : ISignupRepository
     }
     public async Task SaveSignupAsync(SignupEntity signupEntity)
     {
-        _context.Signups.Add(signupEntity);
-        await _context.SaveChangesAsync();
+        try
+        {
+            var existingUser = await _context.Signups.FirstOrDefaultAsync(u => u.Email == signupEntity.Email);
+            if (existingUser != null)
+            {
+                Console.WriteLine("This user already existed!");
+                throw new Exception("This user already existed! Try with new email");
+            }
+            _context.Signups.Add(signupEntity);
+            await _context.SaveChangesAsync();
+        }
+        catch (Exception ex)
+        {
+            throw new Exception(ex.Message);
+        }
     }
 
     public async Task<List<SignupEntity>> GetSignupListAsync()

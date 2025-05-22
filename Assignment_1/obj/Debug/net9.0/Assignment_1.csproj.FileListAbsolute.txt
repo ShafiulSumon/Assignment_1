@@ -79,8 +79,6 @@
 /Users/shafiul/Documents/Projects/dotNET/Assignment_1/Assignment_1/obj/Debug/net9.0/compressed/e3o1az8ycb-muycvpuwrr.gz
 /Users/shafiul/Documents/Projects/dotNET/Assignment_1/Assignment_1/obj/Debug/net9.0/compressed/y5uqxy5jgp-87fc7y1x7t.gz
 /Users/shafiul/Documents/Projects/dotNET/Assignment_1/Assignment_1/obj/Debug/net9.0/compressed/m350c9md6m-jfsiqqwiad.gz
-/Users/shafiul/Documents/Projects/dotNET/Assignment_1/Assignment_1/obj/Debug/net9.0/compressed/6xz9bvgtdr-iuve2g6yo7.gz
-/Users/shafiul/Documents/Projects/dotNET/Assignment_1/Assignment_1/obj/Debug/net9.0/compressed/rlaunklc1r-iuve2g6yo7.gz
 /Users/shafiul/Documents/Projects/dotNET/Assignment_1/Assignment_1/obj/Debug/net9.0/staticwebassets.build.json
 /Users/shafiul/Documents/Projects/dotNET/Assignment_1/Assignment_1/obj/Debug/net9.0/staticwebassets.development.json
 /Users/shafiul/Documents/Projects/dotNET/Assignment_1/Assignment_1/obj/Debug/net9.0/staticwebassets.build.endpoints.json
@@ -200,3 +198,5 @@
 /Users/shafiul/Documents/Projects/dotNET/Assignment_1/Assignment_1/bin/Debug/net9.0/MailKit.dll
 /Users/shafiul/Documents/Projects/dotNET/Assignment_1/Assignment_1/bin/Debug/net9.0/MimeKit.dll
 /Users/shafiul/Documents/Projects/dotNET/Assignment_1/Assignment_1/bin/Debug/net9.0/BouncyCastle.Crypto.dll
+/Users/shafiul/Documents/Projects/dotNET/Assignment_1/Assignment_1/obj/Debug/net9.0/compressed/6xz9bvgtdr-nv4uk6hpxv.gz
+/Users/shafiul/Documents/Projects/dotNET/Assignment_1/Assignment_1/obj/Debug/net9.0/compressed/rlaunklc1r-nv4uk6hpxv.gz

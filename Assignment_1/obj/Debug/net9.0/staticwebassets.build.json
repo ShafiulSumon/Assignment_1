@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "IkgbDwP4/ehTaVHCzEZl2sFONSF72Vp4+Brz5NZQSrM=",
+  "Hash": "cgkD5s2pzIVtqj6H9ztCgX1G2pJDOiWRMUm670s1+eM=",
   "Source": "Assignment_1",
   "BasePath": "_content/Assignment_1",
   "Mode": "Default",
@@ -290,12 +290,12 @@
       "OriginalItemSpec": "/Users/shafiul/Documents/Projects/dotNET/Assignment_1/Assignment_1/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "/Users/shafiul/Documents/Projects/dotNET/Assignment_1/Assignment_1/obj/Debug/net9.0/compressed/6xz9bvgtdr-iuve2g6yo7.gz",
+      "Identity": "/Users/shafiul/Documents/Projects/dotNET/Assignment_1/Assignment_1/obj/Debug/net9.0/compressed/6xz9bvgtdr-nv4uk6hpxv.gz",
       "SourceId": "Assignment_1",
       "SourceType": "Computed",
       "ContentRoot": "/Users/shafiul/Documents/Projects/dotNET/Assignment_1/Assignment_1/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/Assignment_1",
-      "RelativePath": "Assignment_1#[.{fingerprint=iuve2g6yo7}]?.styles.css.gz",
+      "RelativePath": "Assignment_1#[.{fingerprint=nv4uk6hpxv}]?.styles.css.gz",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Alternative",
@@ -304,8 +304,8 @@
       "RelatedAsset": "/Users/shafiul/Documents/Projects/dotNET/Assignment_1/Assignment_1/obj/Debug/net9.0/scopedcss/bundle/Assignment_1.styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "u6efa8y2jr",
-      "Integrity": "lv/rRuT3+fhhW6JzKOhiowLjCbBO2Gy01sr4NHh8t9k=",
+      "Fingerprint": "w4r46jwrep",
+      "Integrity": "oOvzoBHC6DTg6cXxPApGl5KuS//BFiL10RWeMxXN8Hk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/shafiul/Documents/Projects/dotNET/Assignment_1/Assignment_1/obj/Debug/net9.0/scopedcss/bundle/Assignment_1.styles.css"
@@ -1025,12 +1025,12 @@
       "OriginalItemSpec": "/Users/shafiul/Documents/Projects/dotNET/Assignment_1/Assignment_1/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "/Users/shafiul/Documents/Projects/dotNET/Assignment_1/Assignment_1/obj/Debug/net9.0/compressed/rlaunklc1r-iuve2g6yo7.gz",
+      "Identity": "/Users/shafiul/Documents/Projects/dotNET/Assignment_1/Assignment_1/obj/Debug/net9.0/compressed/rlaunklc1r-nv4uk6hpxv.gz",
       "SourceId": "Assignment_1",
       "SourceType": "Computed",
       "ContentRoot": "/Users/shafiul/Documents/Projects/dotNET/Assignment_1/Assignment_1/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/Assignment_1",
-      "RelativePath": "Assignment_1#[.{fingerprint=iuve2g6yo7}]!.bundle.scp.css.gz",
+      "RelativePath": "Assignment_1#[.{fingerprint=nv4uk6hpxv}]!.bundle.scp.css.gz",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Alternative",
@@ -1039,8 +1039,8 @@
       "RelatedAsset": "/Users/shafiul/Documents/Projects/dotNET/Assignment_1/Assignment_1/obj/Debug/net9.0/scopedcss/projectbundle/Assignment_1.bundle.scp.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "u6efa8y2jr",
-      "Integrity": "lv/rRuT3+fhhW6JzKOhiowLjCbBO2Gy01sr4NHh8t9k=",
+      "Fingerprint": "w4r46jwrep",
+      "Integrity": "oOvzoBHC6DTg6cXxPApGl5KuS//BFiL10RWeMxXN8Hk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/shafiul/Documents/Projects/dotNET/Assignment_1/Assignment_1/obj/Debug/net9.0/scopedcss/projectbundle/Assignment_1.bundle.scp.css"
@@ -1375,8 +1375,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "iuve2g6yo7",
-      "Integrity": "RgXlwQ8dHkCAIoAVc4zkKBYU6C/DzXjJf1erDgvKZiE=",
+      "Fingerprint": "nv4uk6hpxv",
+      "Integrity": "zc94ia3nk/f1EO2h98Gwp648iuQt7Vhhpv25tk4v0V4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/shafiul/Documents/Projects/dotNET/Assignment_1/Assignment_1/obj/Debug/net9.0/scopedcss/bundle/Assignment_1.styles.css"
@@ -1396,8 +1396,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "iuve2g6yo7",
-      "Integrity": "RgXlwQ8dHkCAIoAVc4zkKBYU6C/DzXjJf1erDgvKZiE=",
+      "Fingerprint": "nv4uk6hpxv",
+      "Integrity": "zc94ia3nk/f1EO2h98Gwp648iuQt7Vhhpv25tk4v0V4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/shafiul/Documents/Projects/dotNET/Assignment_1/Assignment_1/obj/Debug/net9.0/scopedcss/projectbundle/Assignment_1.bundle.scp.css"
@@ -2729,12 +2729,12 @@
   "Endpoints": [
     {
       "Route": "Assignment_1.bundle.scp.css",
-      "AssetFile": "/Users/shafiul/Documents/Projects/dotNET/Assignment_1/Assignment_1/obj/Debug/net9.0/compressed/rlaunklc1r-iuve2g6yo7.gz",
+      "AssetFile": "/Users/shafiul/Documents/Projects/dotNET/Assignment_1/Assignment_1/obj/Debug/net9.0/compressed/rlaunklc1r-nv4uk6hpxv.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001869158879"
+          "Quality": "0.001865671642"
         }
       ],
       "ResponseHeaders": [
@@ -2744,15 +2744,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "534"
+          "Value": "535"
         },
         {
           "Name": "ETag",
-          "Value": "\"lv/rRuT3+fhhW6JzKOhiowLjCbBO2Gy01sr4NHh8t9k=\""
+          "Value": "\"oOvzoBHC6DTg6cXxPApGl5KuS//BFiL10RWeMxXN8Hk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 17:36:32 GMT"
+          "Value": "Thu, 22 May 2025 14:37:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2772,13 +2772,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"RgXlwQ8dHkCAIoAVc4zkKBYU6C/DzXjJf1erDgvKZiE=\""
+          "Value": "W/\"zc94ia3nk/f1EO2h98Gwp648iuQt7Vhhpv25tk4v0V4=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-RgXlwQ8dHkCAIoAVc4zkKBYU6C/DzXjJf1erDgvKZiE="
+          "Value": "sha256-zc94ia3nk/f1EO2h98Gwp648iuQt7Vhhpv25tk4v0V4="
         }
       ]
     },
@@ -2793,7 +2793,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1081"
+          "Value": "1084"
         },
         {
           "Name": "Content-Type",
@@ -2801,11 +2801,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"RgXlwQ8dHkCAIoAVc4zkKBYU6C/DzXjJf1erDgvKZiE=\""
+          "Value": "\"zc94ia3nk/f1EO2h98Gwp648iuQt7Vhhpv25tk4v0V4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 17:36:32 GMT"
+          "Value": "Thu, 22 May 2025 14:37:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2815,13 +2815,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-RgXlwQ8dHkCAIoAVc4zkKBYU6C/DzXjJf1erDgvKZiE="
+          "Value": "sha256-zc94ia3nk/f1EO2h98Gwp648iuQt7Vhhpv25tk4v0V4="
         }
       ]
     },
     {
       "Route": "Assignment_1.bundle.scp.css.gz",
-      "AssetFile": "/Users/shafiul/Documents/Projects/dotNET/Assignment_1/Assignment_1/obj/Debug/net9.0/compressed/rlaunklc1r-iuve2g6yo7.gz",
+      "AssetFile": "/Users/shafiul/Documents/Projects/dotNET/Assignment_1/Assignment_1/obj/Debug/net9.0/compressed/rlaunklc1r-nv4uk6hpxv.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2830,7 +2830,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "534"
+          "Value": "535"
         },
         {
           "Name": "Content-Type",
@@ -2838,11 +2838,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"lv/rRuT3+fhhW6JzKOhiowLjCbBO2Gy01sr4NHh8t9k=\""
+          "Value": "\"oOvzoBHC6DTg6cXxPApGl5KuS//BFiL10RWeMxXN8Hk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 17:36:32 GMT"
+          "Value": "Thu, 22 May 2025 14:37:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2860,18 +2860,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-lv/rRuT3+fhhW6JzKOhiowLjCbBO2Gy01sr4NHh8t9k="
+          "Value": "sha256-oOvzoBHC6DTg6cXxPApGl5KuS//BFiL10RWeMxXN8Hk="
         }
       ]
     },
     {
-      "Route": "Assignment_1.iuve2g6yo7.bundle.scp.css",
-      "AssetFile": "/Users/shafiul/Documents/Projects/dotNET/Assignment_1/Assignment_1/obj/Debug/net9.0/compressed/rlaunklc1r-iuve2g6yo7.gz",
+      "Route": "Assignment_1.nv4uk6hpxv.bundle.scp.css",
+      "AssetFile": "/Users/shafiul/Documents/Projects/dotNET/Assignment_1/Assignment_1/obj/Debug/net9.0/compressed/rlaunklc1r-nv4uk6hpxv.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001869158879"
+          "Quality": "0.001865671642"
         }
       ],
       "ResponseHeaders": [
@@ -2881,15 +2881,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "534"
+          "Value": "535"
         },
         {
           "Name": "ETag",
-          "Value": "\"lv/rRuT3+fhhW6JzKOhiowLjCbBO2Gy01sr4NHh8t9k=\""
+          "Value": "\"oOvzoBHC6DTg6cXxPApGl5KuS//BFiL10RWeMxXN8Hk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 17:36:32 GMT"
+          "Value": "Thu, 22 May 2025 14:37:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2909,13 +2909,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"RgXlwQ8dHkCAIoAVc4zkKBYU6C/DzXjJf1erDgvKZiE=\""
+          "Value": "W/\"zc94ia3nk/f1EO2h98Gwp648iuQt7Vhhpv25tk4v0V4=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "iuve2g6yo7"
+          "Value": "nv4uk6hpxv"
         },
         {
           "Name": "label",
@@ -2923,12 +2923,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-RgXlwQ8dHkCAIoAVc4zkKBYU6C/DzXjJf1erDgvKZiE="
+          "Value": "sha256-zc94ia3nk/f1EO2h98Gwp648iuQt7Vhhpv25tk4v0V4="
         }
       ]
     },
     {
-      "Route": "Assignment_1.iuve2g6yo7.bundle.scp.css",
+      "Route": "Assignment_1.nv4uk6hpxv.bundle.scp.css",
       "AssetFile": "/Users/shafiul/Documents/Projects/dotNET/Assignment_1/Assignment_1/obj/Debug/net9.0/scopedcss/projectbundle/Assignment_1.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2938,7 +2938,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1081"
+          "Value": "1084"
         },
         {
           "Name": "Content-Type",
@@ -2946,11 +2946,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"RgXlwQ8dHkCAIoAVc4zkKBYU6C/DzXjJf1erDgvKZiE=\""
+          "Value": "\"zc94ia3nk/f1EO2h98Gwp648iuQt7Vhhpv25tk4v0V4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 17:36:32 GMT"
+          "Value": "Thu, 22 May 2025 14:37:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2960,7 +2960,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "iuve2g6yo7"
+          "Value": "nv4uk6hpxv"
         },
         {
           "Name": "label",
@@ -2968,13 +2968,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-RgXlwQ8dHkCAIoAVc4zkKBYU6C/DzXjJf1erDgvKZiE="
+          "Value": "sha256-zc94ia3nk/f1EO2h98Gwp648iuQt7Vhhpv25tk4v0V4="
         }
       ]
     },
     {
-      "Route": "Assignment_1.iuve2g6yo7.bundle.scp.css.gz",
-      "AssetFile": "/Users/shafiul/Documents/Projects/dotNET/Assignment_1/Assignment_1/obj/Debug/net9.0/compressed/rlaunklc1r-iuve2g6yo7.gz",
+      "Route": "Assignment_1.nv4uk6hpxv.bundle.scp.css.gz",
+      "AssetFile": "/Users/shafiul/Documents/Projects/dotNET/Assignment_1/Assignment_1/obj/Debug/net9.0/compressed/rlaunklc1r-nv4uk6hpxv.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2983,7 +2983,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "534"
+          "Value": "535"
         },
         {
           "Name": "Content-Type",
@@ -2991,11 +2991,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"lv/rRuT3+fhhW6JzKOhiowLjCbBO2Gy01sr4NHh8t9k=\""
+          "Value": "\"oOvzoBHC6DTg6cXxPApGl5KuS//BFiL10RWeMxXN8Hk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 17:36:32 GMT"
+          "Value": "Thu, 22 May 2025 14:37:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3013,7 +3013,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "iuve2g6yo7"
+          "Value": "nv4uk6hpxv"
         },
         {
           "Name": "label",
@@ -3021,18 +3021,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-lv/rRuT3+fhhW6JzKOhiowLjCbBO2Gy01sr4NHh8t9k="
+          "Value": "sha256-oOvzoBHC6DTg6cXxPApGl5KuS//BFiL10RWeMxXN8Hk="
         }
       ]
     },
     {
-      "Route": "Assignment_1.iuve2g6yo7.styles.css",
-      "AssetFile": "/Users/shafiul/Documents/Projects/dotNET/Assignment_1/Assignment_1/obj/Debug/net9.0/compressed/6xz9bvgtdr-iuve2g6yo7.gz",
+      "Route": "Assignment_1.nv4uk6hpxv.styles.css",
+      "AssetFile": "/Users/shafiul/Documents/Projects/dotNET/Assignment_1/Assignment_1/obj/Debug/net9.0/compressed/6xz9bvgtdr-nv4uk6hpxv.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001869158879"
+          "Quality": "0.001865671642"
         }
       ],
       "ResponseHeaders": [
@@ -3042,15 +3042,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "534"
+          "Value": "535"
         },
         {
           "Name": "ETag",
-          "Value": "\"lv/rRuT3+fhhW6JzKOhiowLjCbBO2Gy01sr4NHh8t9k=\""
+          "Value": "\"oOvzoBHC6DTg6cXxPApGl5KuS//BFiL10RWeMxXN8Hk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 17:36:32 GMT"
+          "Value": "Thu, 22 May 2025 14:37:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3070,13 +3070,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"RgXlwQ8dHkCAIoAVc4zkKBYU6C/DzXjJf1erDgvKZiE=\""
+          "Value": "W/\"zc94ia3nk/f1EO2h98Gwp648iuQt7Vhhpv25tk4v0V4=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "iuve2g6yo7"
+          "Value": "nv4uk6hpxv"
         },
         {
           "Name": "label",
@@ -3084,12 +3084,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-RgXlwQ8dHkCAIoAVc4zkKBYU6C/DzXjJf1erDgvKZiE="
+          "Value": "sha256-zc94ia3nk/f1EO2h98Gwp648iuQt7Vhhpv25tk4v0V4="
         }
       ]
     },
     {
-      "Route": "Assignment_1.iuve2g6yo7.styles.css",
+      "Route": "Assignment_1.nv4uk6hpxv.styles.css",
       "AssetFile": "/Users/shafiul/Documents/Projects/dotNET/Assignment_1/Assignment_1/obj/Debug/net9.0/scopedcss/bundle/Assignment_1.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3099,7 +3099,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1081"
+          "Value": "1084"
         },
         {
           "Name": "Content-Type",
@@ -3107,11 +3107,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"RgXlwQ8dHkCAIoAVc4zkKBYU6C/DzXjJf1erDgvKZiE=\""
+          "Value": "\"zc94ia3nk/f1EO2h98Gwp648iuQt7Vhhpv25tk4v0V4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 17:36:32 GMT"
+          "Value": "Thu, 22 May 2025 14:37:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3121,7 +3121,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "iuve2g6yo7"
+          "Value": "nv4uk6hpxv"
         },
         {
           "Name": "label",
@@ -3129,13 +3129,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-RgXlwQ8dHkCAIoAVc4zkKBYU6C/DzXjJf1erDgvKZiE="
+          "Value": "sha256-zc94ia3nk/f1EO2h98Gwp648iuQt7Vhhpv25tk4v0V4="
         }
       ]
     },
     {
-      "Route": "Assignment_1.iuve2g6yo7.styles.css.gz",
-      "AssetFile": "/Users/shafiul/Documents/Projects/dotNET/Assignment_1/Assignment_1/obj/Debug/net9.0/compressed/6xz9bvgtdr-iuve2g6yo7.gz",
+      "Route": "Assignment_1.nv4uk6hpxv.styles.css.gz",
+      "AssetFile": "/Users/shafiul/Documents/Projects/dotNET/Assignment_1/Assignment_1/obj/Debug/net9.0/compressed/6xz9bvgtdr-nv4uk6hpxv.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3144,7 +3144,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "534"
+          "Value": "535"
         },
         {
           "Name": "Content-Type",
@@ -3152,11 +3152,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"lv/rRuT3+fhhW6JzKOhiowLjCbBO2Gy01sr4NHh8t9k=\""
+          "Value": "\"oOvzoBHC6DTg6cXxPApGl5KuS//BFiL10RWeMxXN8Hk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 17:36:32 GMT"
+          "Value": "Thu, 22 May 2025 14:37:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3174,7 +3174,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "iuve2g6yo7"
+          "Value": "nv4uk6hpxv"
         },
         {
           "Name": "label",
@@ -3182,18 +3182,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-lv/rRuT3+fhhW6JzKOhiowLjCbBO2Gy01sr4NHh8t9k="
+          "Value": "sha256-oOvzoBHC6DTg6cXxPApGl5KuS//BFiL10RWeMxXN8Hk="
         }
       ]
     },
     {
       "Route": "Assignment_1.styles.css",
-      "AssetFile": "/Users/shafiul/Documents/Projects/dotNET/Assignment_1/Assignment_1/obj/Debug/net9.0/compressed/6xz9bvgtdr-iuve2g6yo7.gz",
+      "AssetFile": "/Users/shafiul/Documents/Projects/dotNET/Assignment_1/Assignment_1/obj/Debug/net9.0/compressed/6xz9bvgtdr-nv4uk6hpxv.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001869158879"
+          "Quality": "0.001865671642"
         }
       ],
       "ResponseHeaders": [
@@ -3203,15 +3203,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "534"
+          "Value": "535"
         },
         {
           "Name": "ETag",
-          "Value": "\"lv/rRuT3+fhhW6JzKOhiowLjCbBO2Gy01sr4NHh8t9k=\""
+          "Value": "\"oOvzoBHC6DTg6cXxPApGl5KuS//BFiL10RWeMxXN8Hk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 17:36:32 GMT"
+          "Value": "Thu, 22 May 2025 14:37:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3231,13 +3231,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"RgXlwQ8dHkCAIoAVc4zkKBYU6C/DzXjJf1erDgvKZiE=\""
+          "Value": "W/\"zc94ia3nk/f1EO2h98Gwp648iuQt7Vhhpv25tk4v0V4=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-RgXlwQ8dHkCAIoAVc4zkKBYU6C/DzXjJf1erDgvKZiE="
+          "Value": "sha256-zc94ia3nk/f1EO2h98Gwp648iuQt7Vhhpv25tk4v0V4="
         }
       ]
     },
@@ -3252,7 +3252,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1081"
+          "Value": "1084"
         },
         {
           "Name": "Content-Type",
@@ -3260,11 +3260,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"RgXlwQ8dHkCAIoAVc4zkKBYU6C/DzXjJf1erDgvKZiE=\""
+          "Value": "\"zc94ia3nk/f1EO2h98Gwp648iuQt7Vhhpv25tk4v0V4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 17:36:32 GMT"
+          "Value": "Thu, 22 May 2025 14:37:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3274,13 +3274,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-RgXlwQ8dHkCAIoAVc4zkKBYU6C/DzXjJf1erDgvKZiE="
+          "Value": "sha256-zc94ia3nk/f1EO2h98Gwp648iuQt7Vhhpv25tk4v0V4="
         }
       ]
     },
     {
       "Route": "Assignment_1.styles.css.gz",
-      "AssetFile": "/Users/shafiul/Documents/Projects/dotNET/Assignment_1/Assignment_1/obj/Debug/net9.0/compressed/6xz9bvgtdr-iuve2g6yo7.gz",
+      "AssetFile": "/Users/shafiul/Documents/Projects/dotNET/Assignment_1/Assignment_1/obj/Debug/net9.0/compressed/6xz9bvgtdr-nv4uk6hpxv.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3289,7 +3289,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "534"
+          "Value": "535"
         },
         {
           "Name": "Content-Type",
@@ -3297,11 +3297,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"lv/rRuT3+fhhW6JzKOhiowLjCbBO2Gy01sr4NHh8t9k=\""
+          "Value": "\"oOvzoBHC6DTg6cXxPApGl5KuS//BFiL10RWeMxXN8Hk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 17:36:32 GMT"
+          "Value": "Thu, 22 May 2025 14:37:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3319,7 +3319,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-lv/rRuT3+fhhW6JzKOhiowLjCbBO2Gy01sr4NHh8t9k="
+          "Value": "sha256-oOvzoBHC6DTg6cXxPApGl5KuS//BFiL10RWeMxXN8Hk="
         }
       ]
     },
